@@ -1,0 +1,11 @@
+sucursal_id,nombre,ciudad,tipo,zona
+SUC-01,Casa Central,Buenos Aires,urbana,Norte
+SUC-02,Palermo,Buenos Aires,urbana,Centro
+SUC-03,Belgrano,Buenos Aires,urbana,Norte
+SUC-04,La Plata Centro,La Plata,urbana,Sur
+SUC-05,Rosario Norte,Rosario,urbana,Centro
+SUC-06,Córdoba Capital,Córdoba,urbana,Centro
+SUC-07,Mar del Plata,Mar del Plata,costera,Sur
+SUC-08,Mendoza Centro,Mendoza,urbana,Oeste
+SUC-09,Tucumán,Tucumán,urbana,Norte
+SUC-10,Salta Capital,Salta,rural,Norte

@@ -1,0 +1,41 @@
+sku,nombre,categoria,laboratorio,precio_costo,precio_venta,requiere_frio,vida_util_dias,unidad_medida,stock_minimo,stock_maximo
+SKU-1000,Ibuprofeno 400mg,Analgésicos,Bagó,1627.41,2046.47,False,540,unidad,17,135
+SKU-1001,Paracetamol 500mg,Analgésicos,Gador,1862.26,2705.88,False,180,unidad,11,107
+SKU-1002,Aspirina 100mg,Analgésicos,Bagó,306.74,404.83,False,180,unidad,30,279
+SKU-1003,Diclofenac 50mg,Analgésicos,Bayer,1398.76,1840.95,False,540,unidad,15,278
+SKU-1004,Ketorolac 10mg,Analgésicos,Investi,1102.73,1470.34,False,365,unidad,13,123
+SKU-1005,Amoxicilina 500mg,Antibióticos,Elea,999.42,1356.91,False,540,unidad,11,286
+SKU-1006,Azitromicina 500mg,Antibióticos,Pfizer,1191.81,1534.39,False,730,unidad,27,175
+SKU-1007,Ciprofloxacina 500mg,Antibióticos,Bagó,2087.16,2996.23,False,540,unidad,12,111
+SKU-1008,Claritromicina 500mg,Antibióticos,Bagó,1680.26,2490.01,False,180,unidad,13,197
+SKU-1009,Cefalexina 500mg,Antibióticos,Roemmers,752.7,1084.42,False,540,unidad,21,190
+SKU-1010,Enalapril 10mg,Antihipertensivos,Roemmers,587.01,780.78,False,180,unidad,27,286
+SKU-1011,Losartan 50mg,Antihipertensivos,Bagó,672.44,933.8,False,540,unidad,20,296
+SKU-1012,Amlodipina 5mg,Antihipertensivos,Investi,1957.92,2581.94,False,180,unidad,22,168
+SKU-1013,Metoprolol 50mg,Antihipertensivos,Bagó,240.18,366.02,False,540,unidad,30,227
+SKU-1014,Hidroclorotiazida 25mg,Antihipertensivos,Roemmers,1037.43,1581.42,False,730,unidad,18,135
+SKU-1015,Metformina 850mg,Diabetes,Gador,676.84,960.04,False,540,unidad,28,202
+SKU-1016,Glibenclamida 5mg,Diabetes,MK Pharma,956.03,1481.08,False,365,unidad,12,293
+SKU-1017,Insulina Glargina,Diabetes,Roemmers,194.02,248.91,True,365,unidad,23,252
+SKU-1018,Insulina Regular,Diabetes,MK Pharma,233.74,318.93,True,365,unidad,26,164
+SKU-1019,Sitagliptina 100mg,Diabetes,Pfizer,2430.01,3665.02,False,180,unidad,27,292
+SKU-1020,Vitamina C 500mg,Vitaminas,Elea,725.72,1046.7,False,180,unidad,23,140
+SKU-1021,Complejo B,Vitaminas,Roemmers,1178.01,1809.59,False,540,unidad,26,127
+SKU-1022,Vitamina D3 1000UI,Vitaminas,Roemmers,2186.65,2929.09,False,365,unidad,21,295
+SKU-1023,Omega 3 1000mg,Vitaminas,Investi,470.95,723.4,False,180,unidad,25,104
+SKU-1024,Zinc 20mg,Vitaminas,Bagó,350.72,476.59,False,540,unidad,11,161
+SKU-1025,Clotrimazol Crema,Dermatológicos,MK Pharma,2204.78,3382.32,False,180,unidad,12,294
+SKU-1026,Hidrocortisona 1%,Dermatológicos,Roemmers,1369.15,1763.09,False,730,unidad,18,235
+SKU-1027,Permetrina Loción,Dermatológicos,Bagó,2191.29,3017.28,False,365,unidad,19,202
+SKU-1028,Aciclovir Crema,Dermatológicos,MK Pharma,2488.26,3595.44,False,730,unidad,13,163
+SKU-1029,Mupirocina Ungüento,Dermatológicos,Bagó,623.77,842.98,False,365,unidad,10,118
+SKU-1030,Omeprazol 20mg,Gastrointestinal,Bayer,1792.98,2272.89,False,180,unidad,20,118
+SKU-1031,Ranitidina 150mg,Gastrointestinal,Bagó,1324.26,1765.96,False,730,unidad,27,133
+SKU-1032,Metoclopramida 10mg,Gastrointestinal,Bagó,1830.51,2772.7,False,730,unidad,25,204
+SKU-1033,Loperamida 2mg,Gastrointestinal,Investi,540.79,691.71,False,730,unidad,23,205
+SKU-1034,Simeticona 80mg,Gastrointestinal,Bayer,1210.2,1777.45,False,180,unidad,22,286
+SKU-1035,Salbutamol Inhalador,Respiratorio,Bagó,901.11,1359.33,False,365,unidad,16,237
+SKU-1036,Loratadina 10mg,Respiratorio,MK Pharma,1165.64,1604.58,False,540,unidad,17,119
+SKU-1037,Cetirizina 10mg,Respiratorio,Bayer,1152.38,1738.26,False,180,unidad,30,238
+SKU-1038,Bromhexina 8mg,Respiratorio,Roemmers,2103.19,3240.38,False,365,unidad,23,224
+SKU-1039,Ambroxol 30mg,Respiratorio,Roemmers,1244.89,1879.03,False,180,unidad,22,100
