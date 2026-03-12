@@ -103,15 +103,15 @@ portafolio-inventario-farmacia/
 El dashboard cuenta con **3 páginas interactivas**:
 
 ### Página 1 — Resumen Ejecutivo
-![Resumen Ejecutivo](../Presentacion/Resumen_ejecutivo.png)
+![Resumen Ejecutivo](Presentacion/Resumen_ejecutivo.png)
 KPIs generales + ingresos por categoría + distribución ABC
 
 ### Página 2 — Análisis de Riesgo
-![Análisis de Riesgo](../Presentacion/Analisis_de_riesgo.png)
+![Análisis de Riesgo](Presentacion/Analisis_de_riesgo.png)
 Productos próximos a vencer + valor en riesgo por categoría
 
 ### Página 3 — Optimización
-![Optimización](../Presentacion/Optimizacion.png)
+![Optimización](Presentacion/Optimizacion.png)
 Top 10 sobrestock + ranking de proveedores + dispersión rotación vs margen
 
 
@@ -138,10 +138,10 @@ Abrir `Inventario_Farmacia.pbix` en Power BI Desktop y actualizar el origen de d
 
 ## Autor
 
-**Braian**
+**Braian Cano**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-cano-97846929a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BraianCano)
 
 ---
 
